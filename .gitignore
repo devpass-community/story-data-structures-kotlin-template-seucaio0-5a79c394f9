@@ -1,0 +1,28 @@
+# Kotlin specific
+.idea/
+*.iml
+out/
+build/
+.gradle/
+.gradle.kts/
+
+# Compiled files
+*.class
+
+# Dependencies
+/.gradle
+/.idea
+
+# macOS specific
+.DS_Store
+
+# Gradle specific
+/.gradle/
+/build/
+
+
+# Ignore Gradle project-specific cache directory
+.gradle
+
+# Ignore Gradle build output directory
+build
